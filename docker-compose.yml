@@ -1,0 +1,38 @@
+version: "3.9"
+
+services:
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: shopit-backend
+    restart: always
+    ports:
+      - "4000:4000"
+    env_file:
+      - ./backend/.env
+    environment:
+      - NODE_ENV=PRODUCTION
+      - PORT=4000
+    networks:
+      - app-network
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+      args:
+        REACT_APP_API_URL: ""
+        REACT_APP_STRIPE_API_KEY: "pk_test_51KAyEpJLhg7NWjUBJKY60JDFC70EiVQuxEpKtRlCTzIAnXwkPEf3abUJie6pgak1NrjJTY7WEX29MOHDyLIVXMz100y6vlmCXv"
+    container_name: shopit-frontend
+    restart: always
+    ports:
+      - "80:80"
+    depends_on:
+      - backend
+    networks:
+      - app-network
+
+networks:
+  app-network:
+    driver: bridge

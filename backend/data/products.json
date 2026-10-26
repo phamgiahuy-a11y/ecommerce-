@@ -1,0 +1,223 @@
+[
+    {
+        "name": "Bánh Quy Nhân Kem Oreo Vị Vanilla (Gói 133g)",
+        "price": 18000,
+        "description": "Bánh quy Oreo thơm ngon vị vani, giòn rụm thích hợp làm món ăn vặt nhẹ nhàng mỗi ngày.",
+        "ratings": 5.0,
+        "images": [
+            {
+                "public_id": "products/oreo_vanilla",
+                "url": "https://picsum.photos/id/1080/400/400"
+            }
+        ],
+        "category": "Bánh kẹo - Đồ ăn vặt",
+        "seller": "Siêu thị VinMart",
+        "stock": 150,
+        "numOfReviews": 12,
+        "reviews": []
+    },
+    {
+        "name": "Khoai Tây Chiên Lay's Vị Tự Nhiên Classic (Gói 95g)",
+        "price": 22000,
+        "description": "Khoai tây chiên giòn tan từ khoai tây tự nhiên chọn lọc, hương vị thơm ngon đậm đà.",
+        "ratings": 4.8,
+        "images": [
+            {
+                "public_id": "products/lays_classic",
+                "url": "https://picsum.photos/id/292/400/400"
+            }
+        ],
+        "category": "Bánh kẹo - Đồ ăn vặt",
+        "seller": "Siêu thị Big C",
+        "stock": 200,
+        "numOfReviews": 25,
+        "reviews": []
+    },
+    {
+        "name": "Sữa Tươi Tiệt Trùng Vinamilk 100% Có Đường (Hộp 1 Lít)",
+        "price": 36000,
+        "description": "Sữa tươi nguyên chất giàu dinh dưỡng, bổ sung vitamin D3 và Canxi cho cả gia đình.",
+        "ratings": 4.9,
+        "images": [
+            {
+                "public_id": "products/vinamilk_milk",
+                "url": "https://picsum.photos/id/225/400/400"
+            }
+        ],
+        "category": "Sữa - Sản phẩm từ sữa",
+        "seller": "Vinamilk Store",
+        "stock": 80,
+        "numOfReviews": 40,
+        "reviews": []
+    },
+    {
+        "name": "Sữa Chua Uống Tiệt Trùng TH true YOGURT Vị Cam (Chai 180ml)",
+        "price": 10500,
+        "description": "Sữa chua uống lên men tự nhiên từ sữa tươi sạch TH true MILK hòa quyện vị cam thanh mát.",
+        "ratings": 4.7,
+        "images": [
+            {
+                "public_id": "products/th_yogurt",
+                "url": "https://picsum.photos/id/429/400/400"
+            }
+        ],
+        "category": "Sữa - Sản phẩm từ sữa",
+        "seller": "TH true mart",
+        "stock": 120,
+        "numOfReviews": 18,
+        "reviews": []
+    },
+    {
+        "name": "Nước Giải Khát Coca-Cola Nguyên Bản (Lốc 6 Lon x 320ml)",
+        "price": 62000,
+        "description": "Nước sảng khoái cực đã, giúp xua tan mệt mỏi và giúp bữa ăn thêm ngon miệng.",
+        "ratings": 5.0,
+        "images": [
+            {
+                "public_id": "products/cocacola_can",
+                "url": "https://picsum.photos/id/1060/400/400"
+            }
+        ],
+        "category": "Đồ uống - Giải khát",
+        "seller": "Bách Hóa Xanh",
+        "stock": 300,
+        "numOfReviews": 55,
+        "reviews": []
+    },
+    {
+        "name": "Nước Ép Trái Cây Nguyên Chất Vị Táo (Chai 350ml)",
+        "price": 25000,
+        "description": "Nước ép trái cây tươi tự nhiên bổ sung Vitamin C tăng cường sức đề kháng cho cơ thể.",
+        "ratings": 4.6,
+        "images": [
+            {
+                "public_id": "products/fruit_juice",
+                "url": "https://picsum.photos/id/431/400/400"
+            }
+        ],
+        "category": "Đồ uống - Giải khát",
+        "seller": "Bách Hóa Xanh",
+        "stock": 90,
+        "numOfReviews": 8,
+        "reviews": []
+    },
+    {
+        "name": "Dầu Gội Đầu Sunsilk Mềm Mượt Diệu Kỳ (Chai 650g)",
+        "price": 135000,
+        "description": "Dầu gội Sunsilk chứa hỗn hợp dưỡng chất nuôi dưỡng tóc mềm mượt ngát hương từ gốc đến ngọn.",
+        "ratings": 4.5,
+        "images": [
+            {
+                "public_id": "products/sunsilk_shampoo",
+                "url": "https://picsum.photos/id/1027/400/400"
+            }
+        ],
+        "category": "Chăm sóc cá nhân",
+        "seller": "Unilever Flagship Store",
+        "stock": 50,
+        "numOfReviews": 15,
+        "reviews": []
+    },
+    {
+        "name": "Sữa Tắm Dưỡng Ẩm Dove Thần Thánh (Chai 530g)",
+        "price": 149000,
+        "description": "Sữa tắm Dove chứa dưỡng chất tự nhiên nuôi dưỡng làn da mịn màng, ẩm mượt suốt cả ngày.",
+        "ratings": 4.8,
+        "images": [
+            {
+                "public_id": "products/dove_bodywash",
+                "url": "https://picsum.photos/id/64/400/400"
+            }
+        ],
+        "category": "Chăm sóc cá nhân",
+        "seller": "Unilever Flagship Store",
+        "stock": 65,
+        "numOfReviews": 22,
+        "reviews": []
+    },
+    {
+        "name": "Nước Rửa Bát Sunlight Chanh Tươi Clean (Chai 750g)",
+        "price": 34000,
+        "description": "Nước rửa chén Sunlight chiết xuất chanh tươi đánh bay vết dầu mỡ cứng đầu cực nhanh.",
+        "ratings": 4.9,
+        "images": [
+            {
+                "public_id": "products/sunlight_dishwash",
+                "url": "https://picsum.photos/id/326/400/400"
+            }
+        ],
+        "category": "Hóa Mỹ phẩm",
+        "seller": "Siêu thị Coopmart",
+        "stock": 110,
+        "numOfReviews": 33,
+        "reviews": []
+    },
+    {
+        "name": "Hạt Dẻ Cười Rang muối Mỹ Cao Cấp (Gói 500g)",
+        "price": 165000,
+        "description": "Hạt dẻ cười thơm béo, giòn rụm tự nhiên, không chất tẩy trắng an toàn cho sức khỏe.",
+        "ratings": 4.9,
+        "images": [
+            {
+                "public_id": "products/pistachios",
+                "url": "https://picsum.photos/id/488/400/400"
+            }
+        ],
+        "category": "Bánh kẹo - Đồ ăn vặt",
+        "seller": "Nutty Farm",
+        "stock": 95,
+        "numOfReviews": 14,
+        "reviews": []
+    },
+    {
+        "name": "Socola Đen Hazelnut Lotte Thượng Hạng (Thanh 100g)",
+        "price": 45000,
+        "description": "Socola đen nguyên chất kết hợp hạt phỉ thơm ngon đậm vị, mang lại cảm giác sảng khoái.",
+        "ratings": 4.8,
+        "images": [
+            {
+                "public_id": "products/chocolate_bar",
+                "url": "https://picsum.photos/id/425/400/400"
+            }
+        ],
+        "category": "Bánh kẹo - Đồ ăn vặt",
+        "seller": "Lotte Mart",
+        "stock": 140,
+        "numOfReviews": 19,
+        "reviews": []
+    },
+    {
+        "name": "Trà Xanh Không Độ Chai Lớn (Chai 450ml)",
+        "price": 10000,
+        "description": "Trà xanh thanh mát kết hợp chất EGCG giúp giải tỏa căng thẳng và mệt mỏi hiệu quả.",
+        "ratings": 4.7,
+        "images": [
+            {
+                "public_id": "products/green_tea",
+                "url": "https://picsum.photos/id/493/400/400"
+            }
+        ],
+        "category": "Đồ uống - Giải khát",
+        "seller": "Number 1 Store",
+        "stock": 250,
+        "numOfReviews": 31,
+        "reviews": []
+    },
+    {
+        "name": "Nước Khoáng Thiên Nhiên La Vie (Thùng 24 Chai x 500ml)",
+        "price": 95000,
+        "description": "Nước khoáng thiên nhiên đóng chai trực tiếp từ nguồn, giàu khoáng chất thiết yếu cho cơ thể.",
+        "ratings": 5.0,
+        "images": [
+            {
+                "public_id": "products/lavie_water",
+                "url": "https://picsum.photos/id/514/400/400"
+            }
+        ],
+        "category": "Đồ uống - Giải khát",
+        "seller": "La Vie Official",
+        "stock": 180,
+        "numOfReviews": 42,
+        "reviews": []
+    }
+]
